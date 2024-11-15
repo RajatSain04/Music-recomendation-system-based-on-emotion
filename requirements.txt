@@ -1,0 +1,10 @@
+av==12.3.0
+keras==2.10.0
+mediapipe==0.10.15
+numpy==1.23.2
+opencv_contrib_python==4.10.0.84
+opencv_python==4.8.0.76
+opencv_python_headless==4.8.0.76
+streamlit==1.38.0
+streamlit_webrtc==0.47.7
+tensorflow_macos==2.10.0
